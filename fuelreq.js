@@ -1,3 +1,3 @@
-import mass from './mass';
+mass = require('./mass').mass;
 
 console.log(mass);
