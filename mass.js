@@ -102,4 +102,4 @@ const mass = [
 ];
 
 // export default mass;
-module.exports = {mass};
+module.exports = mass;

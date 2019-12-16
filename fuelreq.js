@@ -1,3 +1,3 @@
-mass = require('./mass').mass;
+mass = require('./mass')
 
 console.log(mass);
