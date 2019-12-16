@@ -101,5 +101,5 @@ const mass = [
   65770,
 ];
 
-// export default mass;
-module.exports = mass;
+export default mass;
+// module.exports = mass;
